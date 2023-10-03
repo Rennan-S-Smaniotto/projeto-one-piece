@@ -77,6 +77,10 @@
 }
 
 @media (max-width: 414px) {
+    main .personagem .imagem{
+        width: 100%;
+        height: 50%;
+    }
     .botoes {
         padding: 10px;
         top: 0;
