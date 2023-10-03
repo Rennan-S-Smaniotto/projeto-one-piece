@@ -75,3 +75,14 @@
         max-width: 75px;
     }
 }
+
+@media (max-width: 414px) {
+    .botoes {
+        padding: 10px;
+        top: 0;
+    }
+
+    .botoes .botao img {
+        max-width: 50px;
+    }
+}
