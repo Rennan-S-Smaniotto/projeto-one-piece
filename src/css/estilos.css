@@ -82,7 +82,7 @@ main .personagem .imagem {
     background: #000000;
     cursor: pointer;
     border-radius: 50%;
-    transform: scale(1.1);
+    transform: scale(1);
 }
 
 .botoes .botao img{
