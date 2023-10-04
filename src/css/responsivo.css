@@ -91,12 +91,11 @@
 
     .conteudo .nome-personagem{
         position: fixed;
-        top: 410px;
+        top: 400px;
     }
 
     .conteudo .descricao{
         position: fixed;
-        top: 500px;
     }
 
     .botoes {
@@ -108,7 +107,7 @@
         width: 50px;
         height: 50px;
         position: relative;
-        bottom: 100px;
+        bottom: 40px;
     }
 
     .botoes .botao img {
