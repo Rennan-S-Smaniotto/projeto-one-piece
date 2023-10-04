@@ -102,6 +102,7 @@
     .botoes {
         padding: 10px;
         top: 0;
+        gap: 6px;
     }
 
     .botoes .botao{
