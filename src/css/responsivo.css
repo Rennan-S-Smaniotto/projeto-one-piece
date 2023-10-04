@@ -81,6 +81,24 @@
         width: 100%;
         height: 50%;
     }
+
+    .conteudo .logo {
+        position: fixed;
+        top: 290px;
+        width: 170px;
+        height: 75px;
+    }
+
+    .conteudo .nome-personagem{
+        position: fixed;
+        top: 410px;
+    }
+
+    .conteudo .descricao{
+        position: fixed;
+        top: 500px;
+    }
+
     .botoes {
         padding: 10px;
         top: 0;
